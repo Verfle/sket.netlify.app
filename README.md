@@ -1,5 +1,5 @@
 <p align='center'>
-  <a href="https://nusk.netlify.app/" target="_Blank">Exemple: nusk.netlify.app</a>
+  <a href="https://sket.netlify.app/" target="_Blank">Exemple: sket.netlify.app</a>
 </p>
 <hr>
 <p align='center'>
